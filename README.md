@@ -9,7 +9,6 @@
 ## 🌱 I’m currently learning ...
 - React.js
 - Node.js
-- MySQL
 - PHP
 
 ## 💞️ I’m looking to collaborate on ...
@@ -20,8 +19,8 @@
 ## 📫 How to reach me ...
 - Email: nivethan.nive2000@gmail.com
 - Mobile: +94768915898
-- LinkedIn: 
-- Twitter: 
+- LinkedIn: www.linkedin.com/in/nivethan-selvaratnam
+- Facbook: www.facebook.com/nivethan.selva.9
 
 ## 😄 Pronouns: ...
 - He
