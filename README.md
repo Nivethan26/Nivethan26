@@ -19,7 +19,7 @@
 ## 📫 How to reach me ...
 - Email: nivethan.nive2000@gmail.com
 - Mobile: +94768915898
-- LinkedIn: https://www.linkedin.com/in/nivethan-selvaratnam
+- LinkedIn: www.linkedin.com/in/nivethan-selvaratnam-4b9252212
 - Facbook: www.facebook.com/nivethan.selva.9
 
 ## 😄 Pronouns: ...
